@@ -7,7 +7,7 @@ require 'card'
             suit:  :hearts,
             rank: 7,
         }
-
+    end
 #RSpec.describe 'a playing card' do
 
 Card.bulid(*defaults.merge(params).values_at(:suit, :rank))
