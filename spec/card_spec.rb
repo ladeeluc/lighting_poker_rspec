@@ -87,5 +87,4 @@ describe 'a king' do
         raise unless higher.rank > lower.rank
     end
  end
-end
  
