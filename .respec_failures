@@ -1,0 +1,8 @@
+Card has a suit
+Card has a rank
+Card is equal to itself
+Card is not equal to a card of differing suit
+Card is not equal to a card of differing rank
+Card a jack ranks higher than a 10
+Card a queen ranks higher than a jack
+Card a king ranks higher than a queen
